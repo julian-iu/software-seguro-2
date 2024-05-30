@@ -1,0 +1,4 @@
+com\iudigital\supermarket\domain\Producto.class
+com\iudigital\supermarket\domain\Caja.class
+com\iudigital\supermarket\Main\SuperMarket.class
+com\iudigital\supermarket\domain\Cliente.class
